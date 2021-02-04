@@ -1,0 +1,1 @@
+ng build --prod=true --outputPath=docs --baseHref=https://eventmojos.github.io/firsttemplate/ --output-hashing none
